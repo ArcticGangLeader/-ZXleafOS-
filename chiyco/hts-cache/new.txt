@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:44:23	9/9	---M--	404	error ('Not%20Found')	text/plain	date:Sun,%2011%20Oct%202026%2011:44:16%20GMT	https://cat.chiyco.dpdns.org/robots.txt		(from )
+19:44:24	317473/317473	---MCZ	200	added ('OK')	text/html	date:Sun,%2011%20Oct%202026%2011:44:16%20GMT	https://cat.chiyco.dpdns.org/	C:/Users/iambq/Documents/j8/cat.chiyco.dpdns.org/index.html	(from )
+19:44:25	105480/105480	---MCZ	200	added ('OK')	text/html	date:Sun,%2011%20Oct%202026%2011:44:17%20GMT	https://cat.chiyco.dpdns.org/shoot.html	C:/Users/iambq/Documents/j8/cat.chiyco.dpdns.org/shoot.html	(from https://cat.chiyco.dpdns.org/)
+19:44:25	9/9	---M--	404	error ('Not%20Found')	text/plain	date:Sun,%2011%20Oct%202026%2011:44:18%20GMT	https://cat.chiyco.dpdns.org/img/food.webp	C:/Users/iambq/Documents/j8/cat.chiyco.dpdns.org/img/food.webp	(from https://cat.chiyco.dpdns.org/)
+19:44:25	9/9	---M--	404	error ('Not%20Found')	text/plain	date:Sun,%2011%20Oct%202026%2011:44:18%20GMT	https://cat.chiyco.dpdns.org/img/soap.webp	C:/Users/iambq/Documents/j8/cat.chiyco.dpdns.org/img/soap.webp	(from https://cat.chiyco.dpdns.org/)
