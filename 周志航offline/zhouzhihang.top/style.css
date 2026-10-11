@@ -1,0 +1,11 @@
+body {
+	text-align:center;
+}
+a {
+    text-decoration: none;
+}
+.rect-bg {
+	display: inline-block;
+	background: #0088ff;
+	padding: 8px 20px;
+}

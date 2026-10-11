@@ -1,0 +1,19 @@
+HTTrack3.50-5 launched on Sun, 11 Oct 2026 20:03:18 at https://zhouzhihang.top/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "zh, en, *" https://zhouzhihang.top/ -O1 "C:\Users\iambq\Documents\77" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:03:31	Error: 	"Not Found" (404) at link https://zhouzhihang.top/www.python.org/download (from https://zhouzhihang.top/zzhos)
+20:03:32	Error: 	"Not Found" (404) at link zhouzhihang.top/zzhos/:/zhouzhihang.top (from https://zhouzhihang.top/zzhos/zx)
+20:04:05	Error: 	"Not Found" (404) at link https://zhouzhihang.top/cdn-cgi/l/email-protection (from https://zhouzhihang.top/zzhos/zx)
+20:04:12	Error: 	"Not Found" (404) at link https://zhouzhihang.top/zzhos/zzhLeaf_a.0.2_source.zip (from https://zhouzhihang.top/zzhos/R20260913)
+20:04:12	Error: 	"Not Found" (404) at link https://zhouzhihang.top/zzhos/zzhLeaf_a.0.1_source.zip (from https://zhouzhihang.top/zzhos/R20260813)
+20:08:45	Error: 	Exit requested by shell or user
+20:08:45	Warning: 	Mirror stopped by user, 1 transfer(s) aborted
+20:09:26	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The mirror stopped before the end. Start it again with --continue to resume it.
+The cache is kept: nothing has to be restored or deleted by hand.
